@@ -1,0 +1,16 @@
+/* GENERAL */
+
+
+/* CLASSES */
+.error {
+	font-size: 1em;
+	color: #f00;
+	margin: 0 0 0 5px;
+	font-weight: normal;
+}
+
+/* FORM */
+label, button[type="submit"] {
+	display: block;
+	margin: 10px 0 0 0;
+}

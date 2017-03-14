@@ -1,2 +1,2 @@
-# javascriptvalidation
-This is a simple javascript validation class.
+# Java Script Validation
+This is a simple Javascript validation class.
