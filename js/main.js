@@ -10,6 +10,7 @@ document.getElementsByTagName('form')[0].addEventListener('submit', function(e){
 		e.preventDefault();
 	}
 	else{
+		/* HERE YOU WOULD SUBMIT THE FORM DATA IF YOU USE E.PREVENTDEFAULT THEN YOU CAN SUBMIT VIA AJAX */
 		alert('Form ready for submission');
 	}
 });
