@@ -10,4 +10,4 @@ How to use:
 
 2. The main.js file is what validates the form. It first gets the submit button and adds the click event.   The click event function will check all the form fields listed.  To add formfields just enter "validate.checkelement('elementid','regex','error message').  The error message are place in span elements and applied after the label element.
 
-For more information please [visit http://shaperenterprises.com/learning/form-validation/](http://shaperenterprises.com/learning/form-validation/)  
+For more information please visit [http://shaperenterprises.com/learning/form-validation/](http://shaperenterprises.com/learning/form-validation/)  
